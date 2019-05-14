@@ -4,15 +4,25 @@
 
 # 自作PC
 
+<img src="img/DSC_0068.JPG" class="plain" style="width:500px" />
+
+Note:
+
+実家PC。なんだかんだ、使い続けて10年くらい。HDDもほそぼそ使ってたりする
+
 ---
 
 ## ほぼ趣味のようなもの。
 
 BTOとかで組んで貰えるし <!-- .element class="fragment" -->
 
+Note:
+
+BuildToOrder。受注生産で組んでもらえる。
+
 ---
 
-## 知っておいて損はない <span class="fragment">と、思う</span>
+## 知っておいて損はない <br/><span class="fragment">(と、思う)</span>
 
 ---
 
@@ -43,9 +53,11 @@ Note:
 
 ## CPU
 
+- Hzとコア数が高いほどいい
 - 処理速度を司る
-- GHzとコア数が高いほどいい
 - 寿命が来た記憶がない
+
+<img src="img/computer_cpu.png" class="plain" style="width:300px">
 
 Note:
 
@@ -55,23 +67,24 @@ Note:
 
 ## メモリ
 
-- よく机の広さと言われる
 - 容量が大きければ大きいほどいい
-- 相性の影響を受けやすい <span class="fragment">経験談</span>
+- 処理中のキャッシュを置いたりする
+- 相性の影響を受けやすい (経験談)
+
+<img src="img/computer_memory.png" class="plain" style="width:300px">
 
 Note:
 
-(机の広さ)プログラムを実行する上で、ここに処理途中のキャッシュを置いたりするから。
+よく机の広さと体言される
+マザーに挿す際に場所で起動しなかったりメモリの組み合わせを変えたら…とかあった。
 
 ---
 
 ## HDD/SSD
 
-- 机の引き出しとも表現される
-
-Note:
-
-ファイルをたくさん保存できる
+- 動画編集とかゲームしたいなら容量大きめで
+- SSDメインでHDDサブが板
+- 言わずとしれたファイル置き場
 
 ---
 
@@ -82,26 +95,32 @@ Note:
   - 高いと読み書きは速いが熱くて電気食い
   - 値段も高くなる
 
+<img src="img/computer_harddisk.png" class="plain" style="width:300px">
+
 ---
 
 ## SSD
 
-- 高価で低容量
-- HDDと比べめっちゃ速い
-- 5分以上掛かってた起動時間が1分未満に
+- ほぼMust
+- HDDと比べ高価で低容量でめっちゃ速い
+- 1,2分以上掛かってた起動時間が1分未満に
+
+<img src="img/computer_ssd.png" class="plain" style="width:300px">
 
 Note:
 
-ディスプレイが付いたらログイン画面だったりすることも
+ノートPCのHDDを換装したら、ディスプレイが付いたらログイン画面だったりすることも
+マジで大事。
 
 ---
 
 ## マザーボード
 
-- 肝、これで全ての構成が決まるといっても過言ではない
-- 搭載できるCPUやメモリの規格もこれで決まる
-- HDD/SSDやグラボなどのポート数
-- 通信速度やUSBのポート数も
+- 搭載できるCPUやメモリの規格に合わせる
+- HDD/SSDやグラボの数
+- 通信速度やUSBポートの数も
+
+<img src="img/computer_motherboard.png" class="plain" style="width:300px">
 
 Note:
 
@@ -114,37 +133,26 @@ Note:
 
 - 今までのパーツの消費電力を賄えるように
 - 劣化すると電圧も下がるので余裕を持つの大事
-- グラボが要電源の場合、あるやつを選ぶこと
+
+<img src="img/computer_dengen_unit.png" class="plain" style="width:300px">
 
 ---
 
 ## ケース
 
 - 今までのパーツが納められるように
-- USBポートとかおーでぃおいんたーふぇーす付きとかも
-- ファンとかもあるね
-- HDDのベイがねじ止め不要なやつマジ便利
+- ベイがねじ止め不要なやつマジ便利
+- 安くても多機能だったり
 
----
-
-## そのた (マザーボードに増設するヤーツ)
-
-- グラボ : 昔はないとディスプレイに繋げなかった
-- サウンドカード : 昔はないと音がでなかったりした
-- LANカード : 昔はないとネットできなかった
-- ビデオカード : 昔はこれでテレビ見たりしてた
-- USBポート : マザボが貧弱だったのでこれで水増ししてた
-
-Note:
-
-ほぼ思い出話
-探せばいろいろあるよ
+<img src="img/computer_case_small.png" class="plain" style="width:300px">
 
 ---
 
 ## PCは消耗品、できるなら部分交換で使い倒したい
 
 - (※個人の感想です) <!-- .element class="fragment" -->
+
+<img src="img/computer_jisaku_bunkai.png" class="plain" style="width:300px">
 
 Note:
 
